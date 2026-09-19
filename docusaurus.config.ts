@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://github.com/mesquita-costa',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/vitrine-one-documentacao/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mesquit-costa', // Usually your GitHub org/user name.
-  projectName: 'VitrineOneFront', // Usually your repo name.
+  organizationName: 'mesquita-costa', // Usually your GitHub org/user name.
+  projectName: 'vitrine-one-documentacao', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
