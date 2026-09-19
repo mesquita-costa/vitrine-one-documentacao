@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvitrine_one_documentacao=self.webpackChunkvitrine_one_documentacao||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/vitrine-one-documentacao/blog","blogTitle":"Blog","authorsListPath":"/vitrine-one-documentacao/blog/authors"}')}}]);

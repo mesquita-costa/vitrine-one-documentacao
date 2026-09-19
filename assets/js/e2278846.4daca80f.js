@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvitrine_one_documentacao=self.webpackChunkvitrine_one_documentacao||[]).push([["9554"],{6778(e){e.exports=JSON.parse('{"metadata":{"permalink":"/vitrine-one-documentacao/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
